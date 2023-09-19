@@ -25,11 +25,11 @@ DELETE /api/notes/:id: Deletes the note with the specified ID and returns a succ
 
 
 ## Technologies Used
-*Express.js
-*Node.js
-*HTML
-*CSS
-*JavaScript
+  *  Express.js
+  *  Node.js
+  *  HTML
+  *  CSS
+  *  JavaScript
 
 
 ## License
